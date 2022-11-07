@@ -1,2 +1,2 @@
-const srt: string = "Hello World";
+const srt: string = "Hello you";
 console.log(srt);
