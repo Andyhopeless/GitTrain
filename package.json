@@ -1,0 +1,20 @@
+{
+  "name": "gittrain",
+  "version": "1.0.0",
+  "description": "My first Repo",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node ./src/1.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andyhopeless/GitTrain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andyhopeless/GitTrain/issues"
+  },
+  "homepage": "https://github.com/Andyhopeless/GitTrain#readme"
+}
